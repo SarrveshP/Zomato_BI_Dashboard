@@ -42,8 +42,7 @@ The dataset includes:
 ## 💻 Tools Used
 
 - **Power BI Desktop** – For interactive dashboard creation
-- **MS Excel / CSV** – For preprocessing and data cleanup (assumed)
-- **DAX** – For calculated fields (if applicable)
+- **MS Excel / CSV** – For preprocessing and data cleanup 
 
 ## 📊 Sample Insights
 
